@@ -2,12 +2,9 @@
 - 👀 I’m interested in ...
       -coding
       -dry humor
-      -pentesting/bug bounty
 - 🌱 I’m currently learning ...
-      -web design
+      -ethical hacking
       -how to utilize github
-- 💞️ I’m looking to collaborate on ...
-      -nothing atm
 - 📫 How to reach me ...
       <ZIGRA@PROTONMAIL.COM>
 
